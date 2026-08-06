@@ -1,4 +1,4 @@
-const CACHE = "tas101-v1";
+const CACHE = "tas101-v2";
 const SHELL = ["./", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
