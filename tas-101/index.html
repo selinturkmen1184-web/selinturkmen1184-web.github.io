@@ -7,18 +7,11 @@
     <meta name="description" content="Taş 101 — dört kişilik gerçek 101 oyun masası" />
     <title>Taş 101 · Gerçek Oyun Masası</title>
     <link rel="stylesheet" href="./assets/game.css" />
-    <script type="importmap">
-      {
-        "imports": {
-          "react": "https://esm.sh/react@19.2.6",
-          "react-dom/client": "https://esm.sh/react-dom@19.2.6/client",
-          "react/jsx-runtime": "https://esm.sh/react@19.2.6/jsx-runtime"
-        }
-      }
-    </script>
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="./assets/game.js"></script>
+    <script src="./assets/react-runtime.js"></script>
+    <script src="./assets/react-dom-runtime.js"></script>
+    <script src="./assets/game.js"></script>
   </body>
 </html>
