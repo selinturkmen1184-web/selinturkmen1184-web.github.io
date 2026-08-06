@@ -1,4 +1,4 @@
-const CACHE = "tas101-v3-classic-table";
+const CACHE = "tas101-v4-classic-table";
 const SHELL = ["./", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
