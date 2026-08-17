@@ -1,2 +1,2 @@
-:HL["/bab-yachting/_next/static/chunks/06ien-vsew40y.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"naval-design","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"doMrape1y9yi95nsxrpkv"}
+:HL["/bab-yachting/_next/static/chunks/0pmsa0yr7g5y4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"naval-design","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"sujaRaCtdxKiCQn2lFf3L"}
