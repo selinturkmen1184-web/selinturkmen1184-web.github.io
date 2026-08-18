@@ -1,2 +1,2 @@
-:HL["/bab-yachting/_next/static/chunks/0mm3fdt-l9pnt.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"X3dyfbIueNvPPvV2yvmro"}
+:HL["/bab-yachting/_next/static/chunks/07p.xfh2.g_-g.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"SmtbqGAVn2TQ5_DdTd9zT"}
